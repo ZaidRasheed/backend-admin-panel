@@ -1,6 +1,6 @@
 # Backend API for admin panel
 
-## Checkout the admin panel portal [here](https://github.com/ZaidRasheed/admin_panel)
+### Checkout the admin panel portal [here](https://github.com/ZaidRasheed/admin_panel)
 
 ## Tech Stack
 - Express.js
